@@ -1,0 +1,3 @@
+# only include source files
+!*.py
+!*.cpp
