@@ -1,4 +1,6 @@
-# only include source files
+# only track source files (*.cpp and *.py) and .gitignore
 *
-!*.py
+!*/
 !*.cpp
+!*.py
+!.gitignore
